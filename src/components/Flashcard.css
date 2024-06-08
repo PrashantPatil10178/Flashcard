@@ -1,0 +1,17 @@
+#default-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mySwiper {
+  width: 100%;
+  height: calc(100vh - 70px);
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
